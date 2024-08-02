@@ -1,4 +1,4 @@
---  CREATE DATABASE DesenvolvedorIO;
+ CREATE DATABASE DesenvolvedorIO;
 
 -- DROP DATABASE DesenvolvedorIO;
 -- Não é possível descartar o banco de dados "DesenvolvedorIO" porque ele está em uso.
